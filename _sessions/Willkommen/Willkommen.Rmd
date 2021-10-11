@@ -5,7 +5,7 @@ author: "Einführung in die moderne Datenanalyse mit R<br>
     The R Bootcamp
   </a>
   <br>
-  <a href='https://therbootcamp.github.io/I2R_2021Aug/'>
+  <a href='https://therbootcamp.github.io/I2R_2021Oct/'>
     <i class='fas fa-clock' style='font-size:.9em;'></i>
   </a>&#8239; 
   <a href='https://therbootcamp.github.io'>
@@ -17,7 +17,7 @@ author: "Einführung in die moderne Datenanalyse mit R<br>
   <a href='https://www.linkedin.com/company/basel-r-bootcamp/'>
     <i class='fab fa-linkedin' style='font-size: .9em;'></i>
   </a>"
-date: "August 2021"
+date: "Oktober 2021"
 output:
   xaringan::moon_reader:
     css: ["default", "baselrbootcamp.css"]
@@ -45,7 +45,7 @@ layout: true
     </a>
     <a href="https://therbootcamp.github.io/">
       <font color="#7E7E7E">
-      Einführung in die moderne Datenanalyse mit R | August 2021
+      Einführung in die moderne Datenanalyse mit R | Oktober 2021
       </font>
     </a>
     </span>
