@@ -1,2 +1,5 @@
-# I2R_2021Oct
-Einführung in die moderne Datenanalyse
+# Applied ML @ Basel January 2019
+
+Notes (aka todo):
+
+Everything!
