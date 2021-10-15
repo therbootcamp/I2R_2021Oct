@@ -54,7 +54,6 @@ layout: true
 ---
 
 ```{r setup, include=FALSE}
-options()
 # see: https://github.com/yihui/xaringan
 # install.packages("xaringan")
 # see: 
