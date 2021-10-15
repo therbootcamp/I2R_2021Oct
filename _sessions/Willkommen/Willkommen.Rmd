@@ -157,6 +157,6 @@ Klicke auf <high>"....running..."</high> auf unserer Website!
 ---
 class: middle, center
 
-<h1><a href=https://therbootcamp.github.io/I2R_2020Aug/index.html>Schedule</a></h1>
+<h1><a href=https://therbootcamp.github.io/I2R_2021Oct/index.html>Schedule</a></h1>
 
 
