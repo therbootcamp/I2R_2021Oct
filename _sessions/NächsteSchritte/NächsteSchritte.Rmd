@@ -54,7 +54,7 @@ layout: true
 ---
 
 ```{r setup, include=FALSE}
-options(htmltools.dir.version = FALSE)
+options()
 # see: https://github.com/yihui/xaringan
 # install.packages("xaringan")
 # see: 
@@ -901,9 +901,10 @@ Das Netz ist vll. der beste Ort für Informationen über R.
 .pull-right45[
 
 <p align="center"><br><br>
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSe4Gq0mmRTzj-3f3MktA2L74myXhywXU1k6d3N0T0vLbibuog/viewform?embedded=true" width="430" height="550" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe></p>
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdLW-x6w5O6HHt05HlnnPo26ZZhhotHzcwqrRfYYSmxJZQN_Q/viewform?embedded=true" width="430" height="550" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe></p>
 
 ]
+
   
 ---
 
